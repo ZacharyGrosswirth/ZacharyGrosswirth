@@ -2,7 +2,7 @@
 
 - Currently a third year Computer Engineering student at The University of Florida minoring in Engineering Innovation and obtaining a certificate in Artificial Intelligence.
 
-- Interests in Software Engineering as well as Cybersecurity.
+- Interested in Software Engineering as well as Cybersecurity.
 
 - Proficient in Python and C++ with experience in SQL, PHP, HTML, CSS, JS, React, and Kotlin.
 
