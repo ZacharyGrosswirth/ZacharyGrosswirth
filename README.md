@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey there <img src="https://github.com/ZacharyGrosswirth/ZacharyGrosswirth/assets/104335744/6f830616-1b3f-40f5-84fd-04ec73e3258d" width="30px" height="30px">, I am Zachary Grosswirth!
+
+- Currently a third year Computer Engineering student at The University of Florida minoring in Engineering Innovation and obtaining a certificate in Artificial Intelligence.
+
+- I have interests in Software Engineering as well as Cybersecurity.
+
+- Proficient in Python and C++ with experience in SQL, PHP, HTML, CSS, JS, React, and Kotlin.
 
 <!--
 **ZacharyGrosswirth/ZacharyGrosswirth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+👋
 -->
